@@ -1,0 +1,105 @@
+{
+    "questions": [
+      {
+        "question": "Which country won the FIFA World Cup in 2018?",
+        "options": ["Germany", "Brazil", "France", "Argentina"],
+        "answer": "France"
+      },
+      {
+        "question": "Who holds the record for the most home runs in a single MLB season?",
+        "options": ["Babe Ruth", "Hank Aaron", "Barry Bonds", "Mark McGwire"],
+        "answer": "Barry Bonds"
+      },
+      {
+        "question": "In which sport is the Vince Lombardi Trophy awarded?",
+        "options": ["Basketball", "American Football", "Baseball", "Ice Hockey"],
+        "answer": "American Football"
+      },
+      {
+        "question": "Which tennis player has won the most Grand Slam titles?",
+        "options": ["Roger Federer", "Serena Williams", "Rafael Nadal", "Margaret Court"],
+        "answer": "Margaret Court"
+      },
+      {
+        "question": "How many players are there on a standard soccer team?",
+        "options": ["9", "10", "11", "12"],
+        "answer": "11"
+      },
+      {
+        "question": "Which country has won the most Olympic gold medals?",
+        "options": ["China", "Russia", "United States", "Great Britain"],
+        "answer": "United States"
+      },
+      {
+        "question": "Who is known as 'The King of Clay' in tennis?",
+        "options": ["Roger Federer", "Novak Djokovic", "Andy Murray", "Rafael Nadal"],
+        "answer": "Rafael Nadal"
+      },
+      {
+        "question": "In which sport would you perform a slam dunk?",
+        "options": ["Basketball", "Volleyball", "Tennis", "Rugby"],
+        "answer": "Basketball"
+      },
+      {
+        "question": "Which athlete has won the most Olympic medals?",
+        "options": ["Usain Bolt", "Carl Lewis", "Simone Biles", "Michael Phelps"],
+        "answer": "Michael Phelps"
+      },
+      {
+        "question": "What is the highest score possible in a single frame of bowling?",
+        "options": ["100", "200", "250", "300"],
+        "answer": "300"
+      },
+      {
+        "question": "Who is the only player to have won the FIFA World Cup three times?",
+        "options": ["Diego Maradona", "Pelé", "Lionel Messi", "Zinedine Zidane"],
+        "answer": "Pelé"
+      },
+      {
+        "question": "Which country hosts the Tour de France cycling race?",
+        "options": ["Italy", "Spain", "France", "Switzerland"],
+        "answer": "France"
+      },
+      {
+        "question": "What is the distance of a marathon?",
+        "options": ["21.1 miles", "26.2 miles", "31.5 miles", "42.195 miles"],
+        "answer": "26.2 miles"
+      },
+      {
+        "question": "Which sport is known as 'The Beautiful Game'?",
+        "options": ["Basketball", "Soccer", "Tennis", "Cricket"],
+        "answer": "Soccer"
+      },
+      {
+        "question": "In cricket, how many runs is a century?",
+        "options": ["50", "75", "100", "150"],
+        "answer": "100"
+      },
+      {
+        "question": "Which NFL team has won the most Super Bowls?",
+        "options": ["Dallas Cowboys", "Pittsburgh Steelers", "San Francisco 49ers", "New England Patriots"],
+        "answer": "Pittsburgh Steelers and New England Patriots"
+      },
+      {
+        "question": "Who was the first woman to score 10.0 in an Olympic gymnastics event?",
+        "options": ["Nadia Comăneci", "Simone Biles", "Mary Lou Retton", "Shannon Miller"],
+        "answer": "Nadia Comăneci"
+      },
+      {
+        "question": "Which sport is associated with Wimbledon?",
+        "options": ["Golf", "Tennis", "Cricket", "Rugby"],
+        "answer": "Tennis"
+      },
+      {
+        "question": "How many players are on a basketball team on the court at one time?",
+        "options": ["4", "5", "6", "7"],
+        "answer": "5"
+      },
+      {
+        "question": "In which sport do teams compete for the Stanley Cup?",
+        "options": ["Basketball", "Ice Hockey", "Baseball", "Soccer"],
+        "answer": "Ice Hockey"
+      }
+    ]
+  }
+  
